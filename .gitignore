@@ -5,3 +5,4 @@ tmp
 api
 *.dot
 *.pdf
+*.DS_Store
